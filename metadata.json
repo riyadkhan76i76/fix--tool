@@ -1,0 +1,6 @@
+{
+  "name": "TriggerTap Turbo v5.2 + RoundTag",
+  "description": "Unified Violentmonkey userscript combining sub-millisecond TriggerTap WS clicking with fast CSS, JS, DOM, Shadow DOM, and API keyword tag discovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
